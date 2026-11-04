@@ -1,0 +1,11 @@
+# NIEMALS private Schlüssel/Zertifikate ins Repository!
+*.key
+*.key.txt
+*.pem
+*.p12
+*.pfx
+*private_key*
+.env*
+.DS_Store
+Thumbs.db
+node_modules/
