@@ -1,0 +1,753 @@
+{
+ "source": "https://wolt.com/de/deu/berlin/venue/feinbckerei-friedenau",
+ "price_date": "04.11.2026",
+ "img_base": "https://imageproxy.wolt.com/menu/menu-images/66646e0e7d4e81bea94726a0/",
+ "categories": [
+  {
+   "id": "fruehstueck",
+   "label": "Frühstück & Warmes",
+   "short": "Frühstück"
+  },
+  {
+   "id": "broetchen",
+   "label": "Brot & Brötchen",
+   "short": "Brötchen"
+  },
+  {
+   "id": "salate",
+   "label": "Salate",
+   "short": "Salate"
+  },
+  {
+   "id": "feingebaeck",
+   "label": "Süßes Feingebäck",
+   "short": "Feingebäck"
+  },
+  {
+   "id": "kuchen",
+   "label": "Kuchen & Torten",
+   "short": "Kuchen"
+  }
+ ],
+ "products": [
+  {
+   "cat": "fruehstueck",
+   "slug": "fruehstuecksteller",
+   "name": "Frühstücksteller",
+   "price": "9,90",
+   "img": "bce8b3ca-2fb6-11ef-9f43-7e90a07e501e_fr_hst_cksteller.jpg",
+   "desc": "Großer Frühstücksteller zum Teilen oder Alleine-Genießen – herzhaft angerichtet und mit frischem Brot aus unserer Backstube.",
+   "tags": [
+    "Herzhaft",
+    "Mit Brot"
+   ],
+   "badge": "Für den großen Hunger"
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "vegetarisches-fruehstueck",
+   "name": "Vegetarisches Frühstück",
+   "price": "9,50",
+   "img": "9f16b83a-2fb9-11ef-a42f-1e83e44f8252_vegetarisches_fr_hst_ck.jpg",
+   "desc": "Unser Frühstücksteller in der fleischlosen Variante – reichhaltig angerichtet, dazu frisches Brot.",
+   "tags": [
+    "Vegetarisch",
+    "Mit Brot"
+   ]
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "menemen",
+   "name": "Menemen",
+   "price": "8,50",
+   "img": "81c5d270-2fb9-11ef-9791-6a147001858f_menemen.jpg",
+   "desc": "Türkischer Pfannenklassiker: Eier, Tomaten und Paprika langsam geschmort und heiß serviert.",
+   "tags": [
+    "Warm",
+    "Vegetarisch"
+   ],
+   "badge": "Heiß aus der Pfanne"
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "goezleme",
+   "name": "Gözleme",
+   "price": "3,50",
+   "img": "c26741ec-2fb9-11ef-b107-3a47438b8a9f_g_zleme.jpg",
+   "desc": "Hauchdünner Teigfladen, gefüllt und auf der heißen Platte knusprig ausgebacken.",
+   "tags": [
+    "Warm",
+    "Frisch gebacken"
+   ]
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "chili-con-carne",
+   "name": "Chili con Carne",
+   "price": "6,50",
+   "img": "21eaf0a6-2fb9-11ef-8d59-029a15f921ce_chili___con_carne.jpg",
+   "desc": "Herzhaft-würziger Eintopf mit Hackfleisch, Bohnen und Tomaten – wärmt von innen.",
+   "tags": [
+    "Warm",
+    "Würzig"
+   ]
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "linsensuppe",
+   "name": "Linsensuppe",
+   "price": "5,00",
+   "img": "cfde3b82-2fb9-11ef-9ba0-362089de574d_linsensuppe.jpg",
+   "desc": "Sämige Suppe aus roten Linsen, hausgemacht und heiß serviert.",
+   "tags": [
+    "Warm",
+    "Hausgemacht"
+   ]
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "pelmeni-fleisch",
+   "name": "Hausgemachte Pelmeni mit Fleischfüllung",
+   "price": "9,50",
+   "desc": "Handgemachte Teigtaschen mit herzhafter Fleischfüllung, mit Butter, frischer Petersilie und Schmand serviert.",
+   "tags": [
+    "Hausgemacht",
+    "Warm"
+   ],
+   "badge": "Neu"
+  },
+  {
+   "cat": "fruehstueck",
+   "slug": "pelmeni-vegetarisch",
+   "name": "Hausgemachte vegetarische Pelmeni mit Käsefüllung",
+   "price": "9,50",
+   "desc": "Handgemachte Teigtaschen mit cremiger Käsefüllung, mit Butter, frischer Petersilie und Schmand serviert.",
+   "tags": [
+    "Hausgemacht",
+    "Vegetarisch",
+    "Warm"
+   ],
+   "badge": "Neu"
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-gouda",
+   "name": "Belegtes Baguette mit Gouda",
+   "price": "3,90",
+   "img": "e1a9b72a-2982-11ef-95b6-0edc4b619cfd_belegte_baguette_mit_gouda.jpg",
+   "desc": "Knuspriges Baguette, frisch belegt mit mildem Gouda.",
+   "tags": [
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-mozzarella",
+   "name": "Belegtes Baguette mit Mozzarella",
+   "price": "3,90",
+   "img": "fcfcc76a-2982-11ef-af2c-faf30c40d4c1_belegte_baguette_mit_mozzarella.jpg",
+   "desc": "Knuspriges Baguette, frisch belegt mit zartem Mozzarella.",
+   "tags": [
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-brie",
+   "name": "Belegtes Baguette mit Brie",
+   "price": "3,90",
+   "img": "45686180-2983-11ef-92c7-7e6f563b6a4e_belegte_baguette_mit_brie.jpg",
+   "desc": "Knuspriges Baguette, frisch belegt mit cremigem Brie.",
+   "tags": [
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-salami",
+   "name": "Belegtes Baguette mit Salami",
+   "price": "3,90",
+   "img": "4effbb80-2983-11ef-9006-0edc4b619cfd_belegte_baguette_mit_salami.jpg",
+   "desc": "Knuspriges Baguette, frisch belegt mit würziger Salami.",
+   "tags": [
+    "Herzhaft"
+   ],
+   "badge": "Beliebt"
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-sucuk",
+   "name": "Belegtes Baguette mit Sucuk",
+   "price": "3,90",
+   "img": "5c82cbb2-2983-11ef-b34f-3211c9b8edb3_belegte_baguette_mit_sucuk.jpg",
+   "desc": "Knuspriges Baguette, frisch belegt mit kräftiger Sucuk-Knoblauchwurst.",
+   "tags": [
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-boulette",
+   "name": "Belegtes Baguette mit hausgemachter Boulette",
+   "price": "4,20",
+   "img": "893f3424-2983-11ef-bb1c-fe8714d2061d_belegte_baguette_mit_boulette_hausgemacht.jpg",
+   "desc": "Knuspriges Baguette mit hausgemachter Berliner Boulette.",
+   "tags": [
+    "Hausgemacht"
+   ],
+   "badge": "Beliebt"
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-schnitzel",
+   "name": "Belegtes Baguette mit Schnitzel",
+   "price": "4,00",
+   "img": "9986f7c2-2983-11ef-8996-7e032586cb2f_belegte_baguette_mit_schnitzel.jpg",
+   "desc": "Knuspriges Baguette, belegt mit goldbraun gebratenem Schnitzel.",
+   "tags": [
+    "Herzhaft"
+   ],
+   "badge": "Beliebt"
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Belegtes Baguette",
+   "slug": "baguette-thunfisch",
+   "name": "Belegtes Baguette mit Thunfisch",
+   "price": "5,50",
+   "img": "5ddff524-2984-11ef-b2ac-f21b48e14591_belegte_baguette_mit_thunfischpaste.jpg",
+   "desc": "Knuspriges Baguette mit herzhaftem Thunfisch.",
+   "tags": [
+    "Mit Fisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-gouda",
+   "name": "Roggen-Baguette mit Gouda",
+   "price": "4,50",
+   "img": "ccc5474e-296d-11ef-91aa-aab6a33c1602_66658bc134adcac16c9d6be9.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit mildem Gouda.",
+   "tags": [
+    "Roggen",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-mozzarella",
+   "name": "Roggen-Baguette mit Mozzarella",
+   "price": "4,50",
+   "img": "cc568200-296d-11ef-987f-825fd3ca7e81_66658bd2bf9b580239c0278d.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit zartem Mozzarella.",
+   "tags": [
+    "Roggen",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-brie",
+   "name": "Roggen-Baguette mit Brie",
+   "price": "4,50",
+   "img": "cc692b80-296d-11ef-a67e-2ae78e771dc6_66658c31bff8726eab48bf4f.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit cremigem Brie.",
+   "tags": [
+    "Roggen",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-salami",
+   "name": "Roggen-Baguette mit Salami",
+   "price": "4,50",
+   "img": "cc4c5e06-296d-11ef-a103-5ac8bfc1cc12_66658c4e9b870c298e1c1420.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit würziger Salami.",
+   "tags": [
+    "Roggen",
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-boulette",
+   "name": "Roggen-Baguette mit hausgemachter Boulette",
+   "price": "5,00",
+   "img": "cc4ee43c-296d-11ef-a1dc-e297c0d707b7_66658cf6c281cde956512f66.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit hausgemachter Boulette.",
+   "tags": [
+    "Roggen",
+    "Hausgemacht"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-schnitzel",
+   "name": "Roggen-Baguette mit Schnitzel",
+   "price": "5,00",
+   "img": "cf016434-296d-11ef-a52a-46568d4e14dc_66658d1f925f6c2e88385d81.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit goldbraunem Schnitzel.",
+   "tags": [
+    "Roggen",
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-lachs",
+   "name": "Roggen-Baguette mit Lachs",
+   "price": "6,90",
+   "img": "cee6d8b2-296d-11ef-8ead-4e8f13bbc53d_66658d37cf314896d9697434.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit Lachs – unser feinstes Baguette.",
+   "tags": [
+    "Roggen",
+    "Mit Fisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Roggen-Baguette",
+   "slug": "roggen-thunfisch",
+   "name": "Roggen-Baguette mit Thunfischpaste",
+   "price": "6,90",
+   "img": "cef40398-296d-11ef-b62f-626402ff9694_66658d47a952bb75655e4993.jpg",
+   "desc": "Kräftiges Roggen-Baguette mit herzhafter Thunfischpaste.",
+   "tags": [
+    "Roggen",
+    "Mit Fisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Baguette mit Körnern",
+   "slug": "koerner-gouda",
+   "name": "Baguette mit Gemischten Körnern & Gouda",
+   "price": "4,50",
+   "img": "cef5471c-296d-11ef-9f18-626402ff9694_66658f656520d053240f183c.jpg",
+   "desc": "Saftiges Körner-Baguette mit mildem Gouda.",
+   "tags": [
+    "Körner",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Baguette mit Körnern",
+   "slug": "koerner-salami",
+   "name": "Baguette mit Gemischten Körnern & Salami",
+   "price": "4,50",
+   "img": "cee9e890-296d-11ef-860a-eea93b8cc1f5_66658fab62f454c04db913ca.jpg",
+   "desc": "Saftiges Körner-Baguette mit würziger Salami.",
+   "tags": [
+    "Körner",
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Baguette mit Körnern",
+   "slug": "koerner-sucuk",
+   "name": "Baguette mit Gemischten Körnern & Sucuk",
+   "price": "4,50",
+   "img": "d155782e-296d-11ef-b921-6a5424548b2b_66658fc157d9369bf345cfcf.jpg",
+   "desc": "Saftiges Körner-Baguette mit kräftiger Sucuk.",
+   "tags": [
+    "Körner",
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Baguette mit Körnern",
+   "slug": "koerner-putenbrust",
+   "name": "Baguette mit Gemischten Körnern & Putenbrust",
+   "price": "4,50",
+   "img": "d1799100-296d-11ef-ba19-f2e2f4f1c8e3_66658fcf34adcac16c9d6cba.jpg",
+   "desc": "Saftiges Körner-Baguette mit magerer Putenbrust.",
+   "tags": [
+    "Körner",
+    "Geflügel"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Baguette mit Körnern",
+   "slug": "koerner-haehnchenbrust",
+   "name": "Baguette mit Gemischten Körnern & Hähnchenbrust",
+   "price": "4,50",
+   "img": "d156cd00-296d-11ef-8ead-4e8f13bbc53d_66658fe1234183d4feca2c11.jpg",
+   "desc": "Saftiges Körner-Baguette mit Hähnchenbrust.",
+   "tags": [
+    "Körner",
+    "Geflügel"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-gouda",
+   "name": "Panini mit Gouda",
+   "price": "4,50",
+   "img": "dbae7e60-296d-11ef-96b3-5ef023987b30_6665907070bef9c4118c891f.jpg",
+   "desc": "Heiß gepresstes Panini mit geschmolzenem Gouda.",
+   "tags": [
+    "Warm",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-mozzarella",
+   "name": "Panini mit Mozzarella",
+   "price": "4,50",
+   "img": "4996384a-299c-11ef-b218-1eacd6516dab_panini_toast_mit_tomate_und_mozarella.jpg",
+   "desc": "Heiß gepresstes Panini mit zart schmelzendem Mozzarella.",
+   "tags": [
+    "Warm",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-weisskaese",
+   "name": "Panini mit Weißkäse",
+   "price": "4,50",
+   "img": "5ac5485e-299c-11ef-b3a8-fa731cf24c4b_panini_toast_mit_sucuk_und_kase.jpg",
+   "desc": "Heiß gepresstes Panini mit würzigem Weißkäse.",
+   "tags": [
+    "Warm",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-brie",
+   "name": "Panini mit Brie",
+   "price": "4,50",
+   "img": "d98af3fc-296d-11ef-9fed-029274f06e34_6665909ff1ef5937c50acfc2.jpg",
+   "desc": "Heiß gepresstes Panini mit cremig geschmolzenem Brie.",
+   "tags": [
+    "Warm",
+    "Vegetarisch"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-salami",
+   "name": "Panini mit Salami",
+   "price": "4,50",
+   "img": "d387b0da-296d-11ef-9661-f2e2f4f1c8e3_666590a768b80e2638145a72.jpg",
+   "desc": "Heiß gepresstes Panini mit würziger Salami.",
+   "tags": [
+    "Warm",
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-boulette",
+   "name": "Panini mit hausgemachter Boulette",
+   "price": "5,50",
+   "img": "d595673c-296d-11ef-89ef-f2e2f4f1c8e3_666590ddf1ef5937c50acfd2.jpg",
+   "desc": "Heiß gepresstes Panini mit hausgemachter Boulette.",
+   "tags": [
+    "Warm",
+    "Hausgemacht"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-schnitzel",
+   "name": "Panini mit Schnitzel",
+   "price": "5,50",
+   "img": "d595b0d4-296d-11ef-a840-6a870c1482ca_666590e9b5b6a5dc4131a3af.jpg",
+   "desc": "Heiß gepresstes Panini mit knusprigem Schnitzel.",
+   "tags": [
+    "Warm",
+    "Herzhaft"
+   ]
+  },
+  {
+   "cat": "broetchen",
+   "sub": "Panini",
+   "slug": "panini-lachs",
+   "name": "Panini mit Lachs",
+   "price": "6,90",
+   "img": "d596122c-296d-11ef-b4d6-eea93b8cc1f5_666590f2cbcb4b3fbf7b04c5.jpg",
+   "desc": "Heiß gepresstes Panini mit Lachs.",
+   "tags": [
+    "Warm",
+    "Mit Fisch"
+   ]
+  },
+  {
+   "cat": "salate",
+   "slug": "nudelsalat-tomate",
+   "name": "Nudelsalat mit Tomatensoße",
+   "price": "3,50",
+   "img": "00bbf2fe-2fb9-11ef-8441-c2bfa43e6fb6_nudelsalat__dunkel_.jpg",
+   "desc": "Hausgemachter Nudelsalat in fruchtiger Tomatensoße.",
+   "tags": [
+    "Hausgemacht",
+    "Kalt"
+   ]
+  },
+  {
+   "cat": "salate",
+   "slug": "nudelsalat-hell",
+   "name": "Heller Nudelsalat",
+   "price": "3,50",
+   "img": "131f058a-2fb9-11ef-9609-1e83e44f8252_nudelsalat__hell_.jpg",
+   "desc": "Klassischer heller Nudelsalat, cremig angemacht.",
+   "tags": [
+    "Hausgemacht",
+    "Kalt"
+   ]
+  },
+  {
+   "cat": "salate",
+   "slug": "kichererbsensalat",
+   "name": "Kichererbsensalat",
+   "price": "3,50",
+   "img": "b408f7bc-2fb9-11ef-af46-96f3f37ecb5c_kichererbsensalat.jpg",
+   "desc": "Frischer Salat aus Kichererbsen und Gemüse.",
+   "tags": [
+    "Vegetarisch",
+    "Kalt"
+   ]
+  },
+  {
+   "cat": "salate",
+   "slug": "couscoussalat",
+   "name": "Couscous-Salat",
+   "price": "3,50",
+   "img": "dec16dfe-2fb9-11ef-8e0b-162a5dfabf8f_couscoussalat.jpg",
+   "desc": "Leichter Couscous-Salat mit frischem Gemüse und Kräutern.",
+   "tags": [
+    "Vegetarisch",
+    "Kalt"
+   ]
+  },
+  {
+   "cat": "salate",
+   "slug": "vinegret",
+   "name": "Russischer Vinegret-Salat",
+   "price": "3,90",
+   "desc": "Klassischer Rote-Bete-Salat mit Gemüse, Bohnen und Gewürzgurke, frisch mit Petersilie angemacht.",
+   "tags": [
+    "Vegetarisch",
+    "Kalt"
+   ],
+   "badge": "Neu"
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "apfeltasche",
+   "name": "Apfeltasche",
+   "price": "2,50",
+   "img": "d5959914-296d-11ef-8d66-7eebd9350be3_666593df57d9369bf345f1b0.jpg",
+   "desc": "Goldbraune Blätterteigtasche mit fruchtiger Apfelfüllung.",
+   "tags": [
+    "Selbstgemacht",
+    "Blätterteig"
+   ]
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "quarktasche-frucht",
+   "name": "Quarktasche mit Saisonfrucht",
+   "price": "2,50",
+   "img": "d98b6c6a-296d-11ef-9b85-6a870c1482ca_6665942fbe85217c6064bba2.jpg",
+   "desc": "Blätterteig mit cremiger Quarkfüllung und Früchten der Saison.",
+   "tags": [
+    "Selbstgemacht",
+    "Saisonal"
+   ],
+   "badge": "Beliebt"
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "quarktasche",
+   "name": "Quarktasche ohne Frucht",
+   "price": "2,50",
+   "img": "dbacaf90-296d-11ef-bc28-262274eab9f9_666594529a5db7328e744654.jpg",
+   "desc": "Der Klassiker: knuspriger Blätterteig mit cremiger Quarkfüllung.",
+   "tags": [
+    "Selbstgemacht"
+   ],
+   "badge": "Beliebt"
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "nusszopf",
+   "name": "Nusszopf",
+   "price": "3,00",
+   "img": "dbabaa28-296d-11ef-81d0-262274eab9f9_66659498ab6f756d2cb55644.jpg",
+   "desc": "Geflochtener Hefezopf mit saftiger Nussfüllung.",
+   "tags": [
+    "Selbstgemacht",
+    "Hefeteig"
+   ]
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "baklava",
+   "name": "Baklava nach türkischer Art",
+   "price": "1,20",
+   "img": "d7b530b0-296d-11ef-ac52-6a870c1482ca_666594d4ad1b211ccb9cb145.jpg",
+   "desc": "Hauchdünne Teigschichten mit Nussfüllung, in Sirup getränkt – nach türkischer Art selbst gemacht.",
+   "tags": [
+    "Selbstgemacht",
+    "Nüsse"
+   ],
+   "badge": "Spezialität",
+   "unit": "pro Stück"
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "schokomuffin",
+   "name": "Schokomuffin",
+   "price": "3,00",
+   "imgAsset": "67c1bedf5522eb19503dfd6b",
+   "desc": "Saftiger Muffin mit viel Schokolade.",
+   "tags": [
+    "Schokolade"
+   ]
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "blaubeermuffin",
+   "name": "Blaubeermuffin",
+   "price": "3,00",
+   "imgAsset": "670e853beed8e7744d365812",
+   "desc": "Fluffiger Muffin mit Blaubeeren.",
+   "tags": [
+    "Fruchtig"
+   ]
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "schokodonut",
+   "name": "Schokodonut mit bunten Streuseln",
+   "price": "1,50",
+   "imgAsset": "67c1bee75522eb19503dfd6e",
+   "desc": "Fluffiger Donut mit Schokoglasur und bunten Streuseln.",
+   "tags": [
+    "Schokolade"
+   ]
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "partydonut",
+   "name": "Partydonut",
+   "price": "1,50",
+   "img": "d7b5f43c-296d-11ef-983e-7eebd9350be3_666595db77222e90cefe360f.jpg",
+   "desc": "Bunt glasierter Donut – gute Laune inklusive.",
+   "tags": [
+    "Bunt"
+   ]
+  },
+  {
+   "cat": "feingebaeck",
+   "slug": "joghurtbecher",
+   "name": "Joghurtbecher",
+   "img": "33c11a76-2fb9-11ef-beca-96f3f37ecb5c_quark_joghurtbecher_m_t_sa_son_fr_chten.jpg",
+   "desc": "Cremiger Quark-Joghurt-Becher mit Früchten der Saison.",
+   "tags": [
+    "Saisonal"
+   ],
+   "variants": [
+    {
+     "label": "klein",
+     "price": "2,50"
+    },
+    {
+     "label": "groß",
+     "price": "3,50"
+    }
+   ]
+  },
+  {
+   "cat": "kuchen",
+   "slug": "kaesekuchen",
+   "name": "Hausgemachter Käsekuchen",
+   "price": "3,00",
+   "img": "dbabc71a-296d-11ef-9c93-a28a48f3d622_66659620dcf9ec360e42e4e7.jpg",
+   "desc": "Saftiger Käsekuchen nach Hausrezept, pro Stück.",
+   "tags": [
+    "Hausgemacht"
+   ]
+  },
+  {
+   "cat": "kuchen",
+   "slug": "kaesekuchen-fruechte",
+   "name": "Hausgemachter Käsekuchen mit Früchten",
+   "price": "3,00",
+   "img": "dbac3344-296d-11ef-b313-6a5424548b2b_666596475e1720721e906f48.jpg",
+   "desc": "Cremiger Käsekuchen, fruchtig belegt, pro Stück.",
+   "tags": [
+    "Hausgemacht",
+    "Fruchtig"
+   ]
+  },
+  {
+   "cat": "kuchen",
+   "slug": "apfelstreuselkuchen",
+   "name": "Hausgemachter Apfelstreuselkuchen",
+   "price": "3,00",
+   "img": "d98ba9c8-296d-11ef-94ed-7eebd9350be3_6665967bc6cce5703157bae1.jpg",
+   "desc": "Saftige Äpfel unter einer dicken Schicht Butterstreusel, pro Stück.",
+   "tags": [
+    "Hausgemacht",
+    "Streusel"
+   ]
+  },
+  {
+   "cat": "kuchen",
+   "slug": "napoleontorte",
+   "name": "Hausgemachte Napoleontorte",
+   "price": "3,50",
+   "img": "d7b6a09e-296d-11ef-85e4-6a5424548b2b_666596bdb34f60ce0eaaff01.jpg",
+   "desc": "Zarte Blätterteigschichten mit feiner Vanillecreme, pro Stück.",
+   "tags": [
+    "Hausgemacht",
+    "Blätterteig"
+   ],
+   "badge": "Spezialität"
+  },
+  {
+   "cat": "kuchen",
+   "slug": "medovik",
+   "name": "Russische Honigtorte Medovik",
+   "price": "3,00",
+   "img": "d7b6e9e6-296d-11ef-8e28-029274f06e34_666596e2b5b6a5dc4131a574.jpg",
+   "desc": "Die klassische russische Honigtorte: viele dünne Honigböden mit cremiger Füllung – hausgemacht, pro Stück.",
+   "tags": [
+    "Hausgemacht",
+    "Honig"
+   ],
+   "badge": "Spezialität"
+  }
+ ]
+}
