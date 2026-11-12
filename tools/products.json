@@ -1,6 +1,6 @@
 {
  "source": "https://wolt.com/de/deu/berlin/venue/feinbckerei-friedenau",
- "price_date": "04.11.2026",
+ "price_date": "12.11.2026",
  "img_base": "https://imageproxy.wolt.com/menu/menu-images/66646e0e7d4e81bea94726a0/",
  "categories": [
   {
@@ -748,6 +748,30 @@
     "Honig"
    ],
    "badge": "Spezialität"
+  },
+  {
+   "cat": "kuchen",
+   "slug": "vegan-mandarinenkuchen",
+   "name": "Veganer Mandarinenkuchen",
+   "price": "3,50",
+   "desc": "Saftiger veganer Rührteig mit cremiger Schicht und Mandarinen, pro Stück.",
+   "tags": [
+    "Vegan",
+    "Fruchtig"
+   ],
+   "badge": "Vegan"
+  },
+  {
+   "cat": "kuchen",
+   "slug": "vegan-schokostreuselkuchen",
+   "name": "Veganer Schoko-Streusel-Kuchen",
+   "price": "3,50",
+   "desc": "Cremige Schichten auf Schokoboden mit Schokostreuseln – rein pflanzlich, pro Stück.",
+   "tags": [
+    "Vegan",
+    "Schokolade"
+   ],
+   "badge": "Vegan"
   }
  ]
 }
